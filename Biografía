@@ -2,56 +2,42 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elden Ring - Biografía</title>
-    <link rel="stylesheet" href="estilos.css">
+    <title>Biografía - Elden Ring</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
     <h1>ELDEN RING</h1>
-
-    <nav>
-        <a href="index.html">Biografía</a>
-        <a href="premios.html">Premios</a>
-        <a href="curiosidades.html">Curiosidades</a>
-    </nav>
 </header>
 
-<main>
+<nav>
+    <a href="index.html">Biografía</a>
+    <a href="premios.html">Premios</a>
+    <a href="curiosidades.html">Curiosidades</a>
+</nav>
 
-    <section class="contenido">
+<section>
 
-        <h2>Biografía</h2>
+    <h2>Biografía</h2>
+
+    <div class="card">
 
         <p>
-            Elden Ring es un videojuego de rol de acción desarrollado por
-            FromSoftware y publicado por Bandai Namco Entertainment.
-            Fue dirigido por Hidetaka Miyazaki con la colaboración
-            del reconocido escritor George R. R. Martin.
+            Elden Ring es un videojuego de rol y acción desarrollado
+            por FromSoftware y publicado por Bandai Namco.
         </p>
 
         <p>
-            La aventura se desarrolla en las Tierras Intermedias,
-            un enorme mundo abierto lleno de castillos, dragones,
-            guerreros legendarios y secretos ocultos.
+            Fue dirigido por Hidetaka Miyazaki y cuenta con la colaboración
+            de George R. R. Martin.
         </p>
 
-        <p>
-            El jugador controla a un Sinluz cuyo objetivo es reunir
-            los fragmentos del Círculo de Elden y convertirse en el
-            Señor del Círculo.
-        </p>
+        <img src="elden ring.jpg" class="imagen">
 
-        <img src="eldenring-portada.jpg" alt="Portada Elden Ring">
+    </div>
 
-    </section>
-
-</main>
-
-<footer>
-    <p>Proyecto Web de Elden Ring</p>
-</footer>
+</section>
 
 </body>
 </html>
