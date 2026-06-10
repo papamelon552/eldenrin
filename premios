@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Premios - Elden Ring</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>PREMIOS</h1>
+</header>
+
+<nav>
+    <a href="index.html">Biografía</a>
+    <a href="premios.html">Premios</a>
+    <a href="curiosidades.html">Curiosidades</a>
+</nav>
+
+<section>
+
+    <h2>Premios Ganados</h2>
+
+    <div class="card">
+
+        <ul>
+            <li>🏆 Juego del Año 2022</li>
+            <li>🏆 Mejor Juego de Rol</li>
+            <li>🏆 Mejor Dirección</li>
+            <li>🏆 Mejor Dirección Artística</li>
+        </ul>
+
+        <img src="premios.webp" class="imagen">
+
+        <a href="index.html">
+            <img src="volver.png" class="flecha">
+        </a>
+
+    </div>
+
+</section>
+
+</body>
+</html>
