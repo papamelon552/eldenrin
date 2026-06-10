@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elden Ring - Biografía</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+<header>
+    <h1>ELDEN RING</h1>
+
+    <nav>
+        <a href="index.html">Biografía</a>
+        <a href="premios.html">Premios</a>
+        <a href="curiosidades.html">Curiosidades</a>
+    </nav>
+</header>
+
+<main>
+
+    <section class="contenido">
+
+        <h2>Biografía</h2>
+
+        <p>
+            Elden Ring es un videojuego de rol de acción desarrollado por
+            FromSoftware y publicado por Bandai Namco Entertainment.
+            Fue dirigido por Hidetaka Miyazaki con la colaboración
+            del reconocido escritor George R. R. Martin.
+        </p>
+
+        <p>
+            La aventura se desarrolla en las Tierras Intermedias,
+            un enorme mundo abierto lleno de castillos, dragones,
+            guerreros legendarios y secretos ocultos.
+        </p>
+
+        <p>
+            El jugador controla a un Sinluz cuyo objetivo es reunir
+            los fragmentos del Círculo de Elden y convertirse en el
+            Señor del Círculo.
+        </p>
+
+        <img src="eldenring-portada.jpg" alt="Portada Elden Ring">
+
+    </section>
+
+</main>
+
+<footer>
+    <p>Proyecto Web de Elden Ring</p>
+</footer>
+
+</body>
+</html>
