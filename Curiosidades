@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Curiosidades - Elden Ring</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>CURIOSIDADES</h1>
+</header>
+
+<nav>
+    <a href="index.html">Biografía</a>
+    <a href="premios.html">Premios</a>
+    <a href="curiosidades.html">Curiosidades</a>
+</nav>
+
+<section>
+
+    <h2>Datos Curiosos</h2>
+
+    <div class="card">
+
+        <ul>
+            <li>⚔️ El mapa es el más grande creado por FromSoftware.</li>
+            <li>🐉 Tiene más de 100 enemigos diferentes.</li>
+            <li>📖 George R. R. Martin colaboró en el lore.</li>
+            <li>🎮 Fue uno de los juegos más vendidos de 2022.</li>
+        </ul>
+
+        <a href="https://www.youtube.com/watch?v=dyFmmnXJLZo&pp=ygUbY3VyaW9zaWRhZGVzIGRlIGVsZGVuIHJpbmcg"
+           target="_blank"
+           class="boton">
+           Ver curiosidades en YouTube
+        </a>
+
+    </div>
+
+</section>
+
+</body>
+</html>
